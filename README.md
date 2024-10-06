@@ -3,7 +3,7 @@ Super Meat Boy Pygame game simulation to observe and test performance AI behavio
 
 Super Meat Boy pygame Demo
 
-[![Watch the video](https://github.com/DorianaOthman/SuperMeatBoy_AI/blob/main/thumbnail.jpg)](https://github.com/DorianaOthman/SuperMeatBoy_AI/blob/main/SuperMeatBoyAI_Demo.mp4)
+[![Watch the video](https://raw.github.com/DorianaOthman/SuperMeatBoy_AI/blob/main/thumbnail.jpg)](https://raw.github.com/DorianaOthman/SuperMeatBoy_AI/blob/main/SuperMeatBoyAI_Demo.mp4)
 
 Focus of AI Project:
 - I focused on the problem of trying to create a suitable AI for the video game Super Meat Boy. The goal of this AI will be to get to its target as quickly as possible in as few deaths as possible.
