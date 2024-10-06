@@ -2,6 +2,9 @@
 Super Meat Boy Pygame game simulation to observe and test performance AI behavior against human participants
 
 Super Meat Boy pygame Demo
+
+[![Watch the video](https://github.com/DorianaOthman/SuperMeatBoy_AI/blob/main/thumbnail.jpg)](https://drive.google.com/file/d/155PXLUoSKansK8pTtEX49y3E3pbwbTs0/view?usp=sharing)
+
 Focus of AI Project:
 - I focused on the problem of trying to create a suitable AI for the video game Super Meat Boy. The goal of this AI will be to get to its target as quickly as possible in as few deaths as possible.
 - The “Light World” implemention performed by CoderboiYT (https://github.com/CoderboiYT/SuperMeatBoyAI/tree/main0 was compared against my “Dark Word” implementation. “Light World” contains the base levels in Super Meat Boy and “Dark World” contains the higher difficulty versions of these levels.
