@@ -2,7 +2,7 @@
 Super Meat Boy Pygame game simulation to observe and test performance AI behavior against human participants
 
 Super Meat Boy pygame Demo 
-https://github.com/user-attachments/assets/7a9af848-dac8-4630-a732-844dd4dff095
+
 
 Focus of AI Project:
 - I focused on the problem of trying to create a suitable AI for the video game Super Meat Boy. The goal of this AI will be to get to its target as quickly as possible in as few deaths as possible.
@@ -18,4 +18,4 @@ Algorithms Implemented:
   - Genetic Algorithms is the method used to improve each generation of Meat Boys. This is done by using an initial cut off percentage to determine the number of “good” and “bad” Meat Boys of each generation based on their ranking; the number of “good” and “bad” Meat Boys kept for the new generation is decided by initial predetermined percentages set by the programmer. The remaining Meatboys needed to fill the new generation are then determined by picking random “good” Meat Boy parents and creating new children based on a combination of their parent’s weights from their Neural Networks; the percentage taken from each parent is based on a predetermined percentage value. Another predetermined percentage also decides if these newly created children will have their weights modified. For each new generation, all of the “bad” Meatboys kept will have their weights modified.
 
 Results:
-- The Super Meat Boy AI was able to complete all tested levels effectively and performed better than most human participants. For full details of these results, you can read both of my reports in the research branch of this repository.
+- The Super Meat Boy AI was able to complete all tested levels effectively and performed better than most human participants. For full details of these results, you can read both of my reports in the AI_Research branch of this repository.
